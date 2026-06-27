@@ -1,0 +1,9 @@
+#include <stdio.h>
+void main()
+{
+    int s,n;
+    printf("enter a number");
+    scanf("%d",&n);
+    s=n*n;
+    printf("square of no. is= %d",s);
+}
