@@ -1,0 +1,8 @@
+#include<stdio.h>
+#define PI 3.14
+#define max 100
+Void main()
+{
+printf(“value of pi is %f\n”,pi);
+printf(“value of max is %d\n”,max);
+}
