@@ -1,0 +1,9 @@
+#include<stdio.h>
+Void main()
+{
+	int a, b, c; 
+	printf(“enter marks ”);
+	scanf(“ %d %d , &a ,&b);
+	c=a/b*100
+	printf(“percentage is %d “,c);
+}
