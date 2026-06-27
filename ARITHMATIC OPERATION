@@ -1,0 +1,13 @@
+#include<stdio.h>
+Void main()
+{
+Int a=7,b=4,float c;
+C=a+b;
+Printf(“add is% d\n”,c);
+C=a-b;
+Printf(“sub is% d\n”,c);
+C=a/b;
+Printf(“div is% d\n”,c);
+C=a%b;
+Printf(“mod is% d\n”,c);
+}
