@@ -1,0 +1,9 @@
+#include <stdio.h>
+void main()
+{
+    float s,a;
+    printf("enter side");
+    scanf("%f",&s);
+    a=s*s;
+    printf("area of square is= %f",a);
+}
