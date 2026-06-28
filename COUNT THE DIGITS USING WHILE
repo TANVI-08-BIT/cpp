@@ -1,0 +1,14 @@
+#include<stdio.h>
+Void main ()
+{
+int num,count=0;
+printf(“enter a no.”);
+scanf(“%d”,&num); 
+while(num!=0)
+{
+Num=num/10;
+Count++;
+}
+Printf(“total digits =%d \n “,count);
+}
+Q28 WACP TO  F
